@@ -1,1 +1,5 @@
 this is first repo using github and git 
+now this is second line using command git remote add origin <url>
+we can make connection with github repo with our repo in git
+and using git push origin main 
+main's commit is pushed to origin "url" 
