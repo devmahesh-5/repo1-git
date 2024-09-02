@@ -3,3 +3,5 @@ now this is second line using command git remote add origin <url>
 we can make connection with github repo with our repo in git
 and using git push origin main 
 main's commit is pushed to origin "url" 
+now with git push -u origin main upstream is set and next time to push use 
+git push and it will be pushed.
